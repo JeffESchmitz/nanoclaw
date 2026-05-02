@@ -6,6 +6,9 @@ node_modules/
 # Build output
 dist/
 
+# Claude Code local settings
+.claude/settings.local.json
+
 # Local data & auth
 store/
 data/
